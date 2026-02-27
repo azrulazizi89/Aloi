@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Student Assessment Tracker (TP1–TP6)",
+  "description": "A comprehensive Malaysian DSKP-aligned assessment system for teachers to track student mastery levels (TP1–TP6) with real-time analytics and evidence-based reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
